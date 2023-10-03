@@ -1,0 +1,35 @@
+*{
+    background-color: #A9DCF7;
+    margin: 20;
+    padding: 50;
+}
+
+body{
+    margin-left: 5%;
+    margin-left: 5%;
+}
+
+h1{
+    color: #054566;
+    text-align: center;   
+}
+
+.description{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.image{
+    height: 190px;
+    width: 190px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    padding-left: 0px;
+    border: 10px;
+}
+
+.titres{
+    text-decoration: wavy blue;
+    background-color: #48AADF;
+}
